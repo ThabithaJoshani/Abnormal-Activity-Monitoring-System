@@ -1,9 +1,3 @@
-# Abnormal-Activity-Monitoring-System
-
-Here's a polished and simplified version of the PDF content rewritten as a `README.md` file suitable for GitHub:
-
----
-
 # Abnormal Activity Monitoring System
 
 This project monitors and detects anomalies in file access, keyboard inputs, mouse movements, and IP changes in real time. It features an interactive web interface built with Streamlit and uses machine learning models to analyze and respond to unusual system behavior.
