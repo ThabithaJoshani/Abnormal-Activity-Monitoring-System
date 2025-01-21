@@ -70,17 +70,21 @@ Run the `Train.py` script to train four ML models:
    ```bash
    streamlit run app.py
    ```
+   or
+   ```bash
+   python -m streamlit run app.py
+   ```
 
-2. **Clear Previous Logs** (if needed):  
+3. **Clear Previous Logs** (if needed):  
    Use the "Utilities" section in the app or manually delete files in the `Models` and `Records` directories.
 
-3. **Start Monitoring**:  
+4. **Start Monitoring**:  
    Run the monitoring script to collect logs:  
    ```bash
    python Monitor.py
    ```
 
-4. **Train the Models**:  
+5. **Train the Models**:  
    Process the collected logs and train the models:  
    ```bash
    python Train.py
